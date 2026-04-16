@@ -13,6 +13,19 @@ The main goal is to evaluate how predictable audio processing remains under syst
 - **Stress Testing:** Analyzes performance under synthetic CPU and memory loads.
 - **Predictive Modeling:** Validates experimental results against a theoretical latency budget.
 
+## Directory Structure
+```text
+.
+├── extended-project-proposal/
+│   ├── cmp720_extended_zynqmp-audio-pipeline-analysis.zip  # LaTeX source files of extended proposal
+│   ├── conference_101719.pdf                               # Finalized proposal document of extended proposal
+│   └── Presentation-of-Extended-Proposal.pdf               # Presentation slides of extended proposal
+├── project-proposal/
+│   ├── cmp720_zynqmp-audio-pipeline-analysis.zip           # LaTeX source files of initial proposal
+│   └── main.pdf                                            # Initial proposal document of initial proposal
+└── README.md                                               # Project overview and documentation
+```
+
 ## Authors
 - **Yasin Arslan**
 - **Süleyman Sertaç Üst**
