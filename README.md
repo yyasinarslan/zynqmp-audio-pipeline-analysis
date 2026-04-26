@@ -20,6 +20,9 @@ The main goal is to evaluate how predictable audio processing remains under syst
 │   ├── cmp720_extended_zynqmp-audio-pipeline-analysis.zip  # LaTeX source files of extended proposal
 │   ├── conference_101719.pdf                               # Finalized proposal document of extended proposal
 │   └── Presentation-of-Extended-Proposal.pdf               # Presentation slides of extended proposal
+├── midterm-project-presentations-peer-evaluation/          # Peer evaluation forms for midterm presentations
+│   ├── evaluation-form-sertac-ust/                         # Evaluation forms submitted by Sertac Ust
+│   └── evaluation-form-yasin-arslan/                       # Evaluation forms submitted by Yasin Arslan
 ├── project-proposal/
 │   ├── cmp720_zynqmp-audio-pipeline-analysis.zip           # LaTeX source files of initial proposal
 │   └── main.pdf                                            # Initial proposal document of initial proposal
